@@ -1,0 +1,17 @@
+Future Developments: 
+1) Depicting a universal feature, such as epsilon or delta which we could multiply with 2d 
+data to get the 3d data. For example, ∈* = ∈/𝜀 (where ∈ = Temperature difference 
+between 3d and 2d fins along some particular x and y coordinate and 𝜀 = Difference in z 
+planes and ∈* is the term to be multiplied with 2d temperature data along with different x, 
+y coordinates to get the required 3d plane temperature data). 
+<br>
+2) Developing more robust ML model and physically testing them in real world like 
+XGBoost Classifier or Support Vector Regression according to the given dataset. 
+<br>
+3) Reducing the time and monetory cost of the approach by getting one simple model to get 
+the more accurate result without heavy and expensive resources. 
+<br>
+4) Measure a relative error with respect to some variable that was being used there since if 
+we go further away from mid-plane the error keeps getting increasing, so it’s better to 
+measure it in some terms of error quality. 
+<br>
